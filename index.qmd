@@ -1,0 +1,51 @@
+---
+title: "class10"
+format: revealjs
+---
+
+class: center, middle
+
+
+# Retrospecto
+
+
+# Modelo conceitual da análise de dados
+
+![Modelo de Data Science](https://retaoliveira.github.io/relements/figures/dataR.png)
+
+
+# Mineração de dados
+
+Data mining, ou mineração de dados, é a prática de examinar dados que já foram coletados – utilizando diversos tipos de algoritmos, normalmente de forma automática –, a fim de gerar novas informações e encontrar padrões.
+
+Consiste na habilidade de **identificar**, nos dados, os **padrões válidos, novos, potencialmente úteis e compreensíveis**, envolvendo **métodos estatísticos**, **ferramentas de visualização** e **técnicas de inteligência artificial**.
+
+
+# Mineração de dados
+
+Considerando que minerar dados é um processo de transformar dados em informações úteis (dados mais valiosos a partir de dados complexos), alguns passos são realizados, como: **encontrar padrões**, **associações** e **anomalias gerais** nos dados.
+
+
+# Mineração de dados
+
+Metodologias da ciência da computação, da estatística multivariada e de outras áreas de conhecimento para realizar seus estudos. 
+
+A mineração de dados é uma das etapas mais importantes da metodologia Knowledge Discovery in Databases (KDD), ou seja, descoberta de conhecimento das bases de dados
+
+A descoberta de conhecimento em bases de dados (KDD) pode ser definida como o processo de extração de informação a partir de dados registrados numa base de dados, um conhecimento implícito, previamente desconhecido, potencialmente útil e compreensível.
+
+# Mineração de dados
+
+## Métodos
+
+Etapas:
+
+- definição clara do problema;    
+- a seleção de todas as fontes internas e externas de dados;   
+- e a preparação dos dados, que inclui o pré-processamento, reformatação dos dados;
+- implementação de métodos de análise; e   
+- análise dos resultados obtidos do processo de DM.   
+
+# O que é segmentação de mercado?
+
+Segmentação de mercado é o processo de divisão da base de clientes em vários grupos de indivíduos que compartilham uma semelhança de diferentes maneiras que são relevantes para o marketing, tais como sexo, idade, interesses e hábitos de gastos diversos.
